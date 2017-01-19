@@ -1,1 +1,3 @@
 # config_linux
+
+Ce dépot contient les fichiers de conf emacs, des scripts shell...
